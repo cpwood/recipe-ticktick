@@ -1,0 +1,13 @@
+{
+  "id": "ticktick",
+  "name": "TickTick",
+  "version": "1.0.0",
+  "description": "TickTick",
+  "main": "index.js",
+  "author": "Chris Wood <chris.wood@hey.com>",
+  "license": "MIT",
+  "repository": "https://github.com/cpwood/recipe-ticktick",
+  "config": {
+    "serviceURL": "https://ticktick.com/webapp/#q/all/today"
+  }
+}
